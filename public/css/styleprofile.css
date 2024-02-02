@@ -1,0 +1,60 @@
+.cover-photo img {
+    height: 200px;
+    object-fit: cover;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border: 2px rgb(86, 84, 84);
+}
+
+.profile-picture {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-top: -99px;
+    border: 3px solid rgb(86, 84, 84);
+}
+
+.profile-picture-sm {
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+    margin-top: -50px;
+    border: 2px solid rgb(86, 84, 84);
+}
+
+.profile-picture-1 {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    margin-top: -99px;
+    border: 3px solid rgb(86, 84, 84);
+}
+
+.profile-picture-2 {
+    width: 170px;
+    height: 170px;
+    object-fit: cover;
+    margin-bottom: -250px;
+    border: 1px solid rgb(86, 84, 84);
+}
+
+.text-profile-sm {
+    margin-top: -45px;
+    margin-left: 50px;
+    object-fit: cover;
+}
+
+.profile-info {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.profile-info-2 {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.kartu {
+    max-width: 800px;
+    width: 100%;
+}
